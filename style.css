@@ -1,0 +1,55 @@
+body{
+
+    background-image: linear-gradient( to top right,#16bffd, #cb3066);
+
+}
+
+p,label{
+
+    font-family: fantasy;
+
+    font-size: 22px;
+
+    color: whitesmoke;
+
+}
+
+#heading{
+
+    font-family: fantasy;
+
+    font-size: 30px;
+
+    width: 80%;
+
+}
+
+.NameOfHumans,#ResultHumanName,#ResultHumanAccuracy{
+
+    font-family: fantasy;
+
+    font-size: 22px;
+
+    color: springgreen;
+
+}
+
+#Camera{
+
+    border: 5px double black;
+
+    width: 350px;
+
+    height: 300px;
+
+}
+
+#result{
+
+    border: 3.5px dashed black;
+
+    width: 350px;
+
+    height: 300px;
+
+}
